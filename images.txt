@@ -2,3 +2,4 @@
 # docker.elastic.co/elasticsearch/elasticsearch
 nginx
 mysql
+mongo
