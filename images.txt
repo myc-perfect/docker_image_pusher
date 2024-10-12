@@ -1,2 +1,5 @@
-docker.io/bitnami/nginx
-docker.elastic.co/elasticsearch/elasticsearch
+# docker.io/bitnami/nginx
+# docker.elastic.co/elasticsearch/elasticsearch
+nginx
+mongodb
+mysql
