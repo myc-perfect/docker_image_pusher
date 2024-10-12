@@ -1,2 +1,2 @@
 docker.io/bitnami/nginx
-quay.io/mongodb/*
+docker.elastic.co/elasticsearch/elasticsearch
