@@ -1,2 +1,2 @@
 docker.io/bitnami/nginx
-docker.io/mongodb
+docker.io/percona/mongodb_exporter
