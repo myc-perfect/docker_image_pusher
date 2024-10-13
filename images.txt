@@ -1,1 +1,8 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.1.0
+# latest
+nginx:latest
+mysql:latest
+mongo:latest
+apache/rocketmq:latest
+rabbitmq:latest
+bitnami/kafka:latest
+docker.elastic.co/elasticsearch/elasticsearch:latest
