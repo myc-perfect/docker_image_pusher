@@ -3,4 +3,6 @@
 nginx
 mysql
 mongo
-elasticsearch
+apache/rocketmq
+rabbitmq
+bitnami/kafka
