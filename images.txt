@@ -1,9 +1,10 @@
 # latest
-nginx:latest
-mysql:latest
-mongo:latest
-apache/rocketmq:latest
-rabbitmq:latest
-bitnami/kafka:latest
+# nginx:latest
+# mysql:latest
+# mongo:latest
+# apache/rocketmq:latest
+# rabbitmq:latest
+# bitnami/kafka:latest
+zookeeper:latest
 # 8.1.0
-docker.elastic.co/elasticsearch/elasticsearch:8.1.0
+# docker.elastic.co/elasticsearch/elasticsearch:8.1.0
